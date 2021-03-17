@@ -1,4 +1,4 @@
-var socket = io("http://localhost:3000",{ 'forceNew': true });
+var socket = io("https://dry-sierra-09836.herokuapp.com/",{ 'forceNew': true });
   var nombre = document.querySelector("#nombre");
   var form = document.getElementById('form');
   var input = document.getElementById('input');
