@@ -11,9 +11,7 @@ var io = require("socket.io")(http);
 
 
 var messages = [
-  { name: "carlos",
-    text: "hola soy un chat vivito y culeando"
-  }
+  
 ]
 
 
